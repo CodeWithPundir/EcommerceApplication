@@ -1,0 +1,56 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Male",
+      "id": 1
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    }
+  ],
+  "contactus": [
+    {
+      "id": 0
+    }
+  ]
+}
